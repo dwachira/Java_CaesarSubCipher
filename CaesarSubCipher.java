@@ -1,5 +1,5 @@
 /*Chanchai Lee
- *Computer Security Assignment 2 Question No.2 Caesar Substitution Cipher (09/29/2016)*/
+ *Caesar Substitution Cipher (09/29/2016)*/
 import java.util.Scanner;
 public class CaesarSubCipher {
 
